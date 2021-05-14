@@ -1,0 +1,17 @@
+PS R:\azure\Dummy> git log --oneline
+d052d5f (HEAD -> master) Merge branch 'rel_1.0'
+af2b39f (rel_1.0)  changes in rel_1.0 upgarde file
+9b281bd  changes in master upgarde file
+182b5fc Merge branch 'rel_1.1'
+52d1956 Merge branch 'rel_1.0'
+693742f  adding upgrade file in rel_1.1 branch
+60d1288  adding upgrade file in rel_1.0 branch
+1781e8f  adding upgrade file in master branch
+365dc5c Merge branch 'rel_1.1'
+5ff07e5  added postgres file in rel_1.1
+bf58ad0  creation of oracle file in rel_1.0
+856aeee  removing files
+988c78c  Fifth commit in rel_1.0
+6e32cc9  fourth commit
+1d33480  thrid commit
+8a8ef25  Second commit
